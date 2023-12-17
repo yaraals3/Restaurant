@@ -1,0 +1,1 @@
+the code provides a basic restaurant ordering system. The user can see the menu, choose dishes, specify quantities, and view their order with the total cost. This simulates a simplified ordering process like one might encounter at a restaurant.
